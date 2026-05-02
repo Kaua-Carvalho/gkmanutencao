@@ -70,7 +70,7 @@ body::before {
 .profile-name {
   margin-top: 18px;
   font-size: 3rem;
-  color: var(--white);
+  color: var(--orange-light);
   font-family: 'Teko', sans-serif;
   letter-spacing: 2px;
 }

@@ -78,7 +78,7 @@ body::before {
 .profile-sub {
   margin-top: 6px;
   font-size: 1.1rem;
-  color: (--orange-dark);
+  color: var(--orange-dark);
 }
 
 .links-list {

@@ -69,10 +69,11 @@ body::before {
 
 .profile-name {
   margin-top: 18px;
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: var(--white);
   font-family: 'Teko', sans-serif;
   letter-spacing: 2px;
+  white-space: nowrap;
 }
 
 .profile-sub {
@@ -174,7 +175,7 @@ footer {
 
 .footer-company {
   font-family: 'Teko', serif;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 600;
   color: var(--orange-light);
   letter-spacing: 2px;
